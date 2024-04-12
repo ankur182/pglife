@@ -55,3 +55,5 @@ b. Displays copywright information.
 Entire web app can be surfed without logging in for user's ease and attraction for new users. Only certain features such as dashboard, and marking interested are available upon log in.
 
 Through the entire web app, each and every excetion is handled well using custom codes and UI, such that they are easily managed, and user can get to know the fault.
+
+THANKS
